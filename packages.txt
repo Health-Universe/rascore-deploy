@@ -1,2 +1,5 @@
 libxrender1
-libXext
+libx11 
+libxt 
+libxtst 
+libxext
